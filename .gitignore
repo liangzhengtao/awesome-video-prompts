@@ -1,0 +1,30 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (if building a site)
+node_modules/
+npm-debug.log*
+
+# Build
+dist/
+build/
+.cache/
+
+# Env
+.env
+.env.local
+.env.*.local

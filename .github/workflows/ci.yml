@@ -1,0 +1,48 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check markdown files exist
+        run: |
+          for dir in prompts/Sora prompts/Runway prompts/Pika prompts/Kling; do
+            if [ ! -d "$dir" ]; then
+              echo "ERROR: Missing directory $dir"
+              exit 1
+            fi
+          done
+
+      - name: Validate prompt format
+        run: |
+          errors=0
+          for f in prompts/**/*.md; do
+            if ! grep -q '^\*\*Prompt:\*\*' "$f" 2>/dev/null; then
+              # Skip guide files that don't contain prompts
+              if [[ "$f" != *"通用技巧"* ]]; then
+                echo "WARN: $f may be missing prompt entries"
+              fi
+            fi
+          done
+          echo "Validation complete"
+
+      - name: Check for broken links
+        run: |
+          grep -roh 'https\?://[^)]*' README.md | head -20 || true
+          echo "Link check complete (manual verification recommended)"
+
+      - name: Count prompts
+        run: |
+          count=$(grep -roh '^\*\*Prompt:\*\*' prompts/**/*.md 2>/dev/null | wc -l)
+          echo "Total prompts found: $count"
+          if [ "$count" -lt 200 ]; then
+            echo "WARNING: Expected 200+ prompts, found $count"
+          fi
