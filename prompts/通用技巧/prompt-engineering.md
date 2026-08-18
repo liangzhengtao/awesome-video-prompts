@@ -259,5 +259,5 @@ Before sending your prompt, check:
 
 ### Kling
 - **Strengths**: Human motion, hand fidelity, Chinese aesthetics, natural scenes
-- **Best practices**: Describe human actions precisely, leverage cultural aesthetics
+- **Best practices**: Describe human actions precisely, use cultural aesthetics
 - **Limitations**: Less abstract/motion graphics capability

@@ -153,7 +153,7 @@
 ### Perfect Loop — Marble Run
 **Prompt:** A glass marble is released at the top of an elaborate Rube Goldberg machine made of wood, metal, and string. The marble rolls down a ramp, hits a domino chain, which tips a lever, which launches the marble onto a second ramp. The marble spirals through a funnel, rolls across a xylophone (creating a melody), bounces off a trampoline, swings on a tiny rope swing, and lands exactly where it started — at the top of the first ramp. The machine resets. The marble starts again. Perfect loop. Camera: slightly overhead, following the marble. The machine is handmade, imperfect, charming.
 
-**Settings:** 1:1 (square), 4 seconds (seamless loop)
+**Settings:** 1:1 (square), 4 seconds (smooth loop)
 
 **Expected result:** Satisfying mechanical chain reaction that loops perfectly. Each step is a miniature "will it work?" moment. The loop makes it endlessly rewatchable. Instagram/TikTok loop bait.
 
@@ -179,9 +179,9 @@
 - Corpse flower: dramatic, rare, unusual color
 
 ### Underwater Bubble Chain
-**Prompt:** A chain of air bubbles rises from the bottom of a swimming pool. Each bubble is a perfect sphere — they vary in size from a marble to a grapefruit. As they rise, they wobble, merge, split. Sunlight refracts through each bubble, creating rainbow caustics on the pool floor. The camera follows the bubbles upward. At the surface, each bubble pops with a tiny splash crown — visible in slow motion. The final, largest bubble reaches the surface and creates a satisfying splash. The camera goes underwater again. New bubbles form. Seamless loop.
+**Prompt:** A chain of air bubbles rises from the bottom of a swimming pool. Each bubble is a perfect sphere — they vary in size from a marble to a grapefruit. As they rise, they wobble, merge, split. Sunlight refracts through each bubble, creating rainbow caustics on the pool floor. The camera follows the bubbles upward. At the surface, each bubble pops with a tiny splash crown — visible in slow motion. The final, largest bubble reaches the surface and creates a satisfying splash. The camera goes underwater again. New bubbles form. Smooth loop.
 
-**Settings:** 9:16, 4 seconds (seamless loop)
+**Settings:** 9:16, 4 seconds (smooth loop)
 
 **Expected result:** Satisfying physics visualization. The bubble physics are mesmerizing — wobble, merge, pop. The rainbow caustics add visual richness. Perfect loop potential.
 
@@ -197,7 +197,7 @@
 ### What Pika Does Best
 - **Short clips (3-4 seconds)**: Pika excels at brief, punchy content
 - **Style consistency**: Good at maintaining a consistent art style
-- **Loop creation**: Can create seamless loops for social media
+- **Loop creation**: Can create smooth loops for social media
 - **Image-to-video**: Strong at animating still images
 - **Effects and edits**: Good at adding motion to existing content
 
@@ -217,4 +217,4 @@
 - "A [subject] [action] in [style]" — clean and effective
 - "Close-up of [subject] with [detail]" — macro detail
 - "[Subject] transforming into [something else]" — morph content
-- "Seamless loop of [repeating action]" — for social media
+- "Smooth loop of [repeating action]" — for social media

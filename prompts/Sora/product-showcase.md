@@ -7,7 +7,7 @@
 ## Tech Products
 
 ### Smartphone Hero Shot
-**Prompt:** A flagship smartphone hovers in zero gravity against a seamless black background. It rotates slowly on its vertical axis, 360 degrees. The screen activates — flowing color gradients ripple across the display. The camera dollies in to show the edge profile: impossibly thin, polished titanium catching a single strip of light. The glass back panel reflects a prismatic rainbow. The phone sets down gently on a polished obsidian surface. Ripples spread from the point of contact like the surface is liquid. The screen shows the time: 9:41 AM. Apple-style product photography, studio lighting with three-point setup, 120fps slow motion at 4K.
+**Prompt:** A flagship smartphone hovers in zero gravity against a smooth black background. It rotates slowly on its vertical axis, 360 degrees. The screen activates — flowing color gradients ripple across the display. The camera dollies in to show the edge profile: impossibly thin, polished titanium catching a single strip of light. The glass back panel reflects a prismatic rainbow. The phone sets down gently on a polished obsidian surface. Ripples spread from the point of contact like the surface is liquid. The screen shows the time: 9:41 AM. Apple-style product photography, studio lighting with three-point setup, 120fps slow motion at 4K.
 
 **Settings:** 16:9, 15 seconds
 
@@ -35,7 +35,7 @@
 
 **Settings:** 16:9, 15 seconds
 
-**Expected result:** Fantasy data visualization that makes health metrics feel epic. The transition between real watch and holographic data world is seamless.
+**Expected result:** Fantasy data visualization that makes health metrics feel epic. The transition between real watch and holographic data world is smooth.
 
 **Variations:**
 - Sleep tracking version: calm purple and blue data flows, slow breathing visualization
@@ -43,7 +43,7 @@
 - Swimming version: underwater watch shot, data bubbles rising to the surface
 
 ### Noise-Canceling Headphones Demo
-**Prompt:** Split screen, seamlessly merged. Left side: a chaotic city street — car horns, construction, crowd noise (shown visually as jagged red waveforms filling the air). A person puts on headphones. The red waveforms hit the headphones and dissolve into blue particles that scatter harmlessly. Right side: inside the headphones — a serene forest glade, birdsong visualized as gentle golden curves floating through the air. The camera slowly rotates around the person as the chaos behind them visually fades and the forest grows. The person closes their eyes. The city is gone. Only the forest remains. Bose/Sony product demo aesthetic, clean and white.
+**Prompt:** Split screen, smoothly merged. Left side: a chaotic city street — car horns, construction, crowd noise (shown visually as jagged red waveforms filling the air). A person puts on headphones. The red waveforms hit the headphones and dissolve into blue particles that scatter harmlessly. Right side: inside the headphones — a serene forest glade, birdsong visualized as gentle golden curves floating through the air. The camera slowly rotates around the person as the chaos behind them visually fades and the forest grows. The person closes their eyes. The city is gone. Only the forest remains. Bose/Sony product demo aesthetic, clean and white.
 
 **Settings:** 16:9, 15 seconds
 
@@ -203,7 +203,7 @@
 
 ### Lighting for Products
 - **Rim light**: Essential for showing edges and separation from background
-- **Gradients**: "Seamless white-to-gray gradient background" is the studio standard
+- **Gradients**: "Smooth white-to-gray gradient background" is the studio standard
 - **Reflections**: "Studio softbox reflections visible in the glass surface, proving its clarity"
 - **Color gels**: "Single blue-gelled key light from camera left, warm fill from right"
 

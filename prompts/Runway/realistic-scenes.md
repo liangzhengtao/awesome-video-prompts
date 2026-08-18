@@ -87,7 +87,7 @@
 ## Urban Environments
 
 ### Tokyo Morning Commute
-**Prompt:** Shinjuku Station platform at 8:15 AM. A train arrives — doors open with a chime. The crowd moves as one organism: people exiting, people entering, a seamless choreography of efficiency. The camera is on the platform, shooting through the crowd at waist level. Legs and feet create a forest of movement. Suits, briefcases, school bags. The doors close. The train departs. The platform empties in 30 seconds. A single person remains, looking at their phone, unaware the train has gone. They look up. The platform is empty. They blink. Shot on Sony Venice 2, 28mm, natural station lighting, documentary style.
+**Prompt:** Shinjuku Station platform at 8:15 AM. A train arrives — doors open with a chime. The crowd moves as one organism: people exiting, people entering, a smooth choreography of efficiency. The camera is on the platform, shooting through the crowd at waist level. Legs and feet create a forest of movement. Suits, briefcases, school bags. The doors close. The train departs. The platform empties in 30 seconds. A single person remains, looking at their phone, unaware the train has gone. They look up. The platform is empty. They blink. Shot on Sony Venice 2, 28mm, natural station lighting, documentary style.
 
 **Settings:** 16:9, 8 seconds
 

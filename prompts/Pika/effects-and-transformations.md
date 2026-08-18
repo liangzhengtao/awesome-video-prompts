@@ -111,11 +111,11 @@
 - Human to city: skin becomes concrete, hair becomes antenna arrays
 
 ### Season Cycle
-**Prompt:** A single oak tree in a field, camera locked, no movement. The tree transforms through all four seasons in 4 seconds. Spring: buds appear, green emerges, grass grows. Summer: full canopy, lush, a butterfly passes. Autumn: leaves turn orange, red, yellow — they begin to fall. Winter: bare branches, snow accumulates, the field turns white. Back to spring: the cycle restarts seamlessly. Each transition is smooth — colors blending, not cutting. The sky changes with the seasons: bright blue → warm haze → grey overcast → white sky. The field follows: wildflowers → tall grass → fallen leaves → snow.
+**Prompt:** A single oak tree in a field, camera locked, no movement. The tree transforms through all four seasons in 4 seconds. Spring: buds appear, green emerges, grass grows. Summer: full canopy, lush, a butterfly passes. Autumn: leaves turn orange, red, yellow — they begin to fall. Winter: bare branches, snow accumulates, the field turns white. Back to spring: the cycle restarts smoothly. Each transition is smooth — colors blending, not cutting. The sky changes with the seasons: bright blue → warm haze → grey overcast → white sky. The field follows: wildflowers → tall grass → fallen leaves → snow.
 
-**Settings:** 16:9, 4 seconds (seamless loop)
+**Settings:** 16:9, 4 seconds (smooth loop)
 
-**Expected result:** The classic season cycle — nature's loop. The smoothness of each transition is the technical achievement. The seamless loop means it can play forever. Meditative, beautiful, universal.
+**Expected result:** The classic season cycle — nature's loop. The smoothness of each transition is the technical achievement. The smooth loop means it can play forever. Meditative, beautiful, universal.
 
 **Variations:**
 - Day-to-night: same scene, sun moving across sky, lights coming on

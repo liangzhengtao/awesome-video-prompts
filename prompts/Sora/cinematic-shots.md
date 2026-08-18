@@ -59,7 +59,7 @@
 - Overhead crane shot rising above the street to reveal the full neon grid
 
 ### Manhattan Golden Hour Skyline
-**Prompt:** Time-lapse of Manhattan skyline from Weehawken, NJ waterfront. Camera locked on tripod. Clouds streak eastward at 400x speed. The Empire State Building transitions from day-lit steel gray to warm amber to its signature white tower lights. Hudson River reflects the entire color shift. One minute compressed into a seamless loop. Shot at f/8, 24mm, one frame every 4 seconds played at 24fps.
+**Prompt:** Time-lapse of Manhattan skyline from Weehawken, NJ waterfront. Camera locked on tripod. Clouds streak eastward at 400x speed. The Empire State Building transitions from day-lit steel gray to warm amber to its signature white tower lights. Hudson River reflects the entire color shift. One minute compressed into a smooth loop. Shot at f/8, 24mm, one frame every 4 seconds played at 24fps.
 
 **Settings:** 16:9, 15 seconds (loop)
 

@@ -71,7 +71,7 @@
 - Red particles forming blood vessels — biology as geometry
 
 ### Firefly Constellation
-**Prompt:** A dark forest at night. Hundreds of fireflies blink in random patterns. Slowly, their blinking synchronizes — first in small groups, then across the entire forest. The synchronized blinking begins to form patterns: lines, then shapes, then recognizable star constellations — Orion, the Big Dipper, Cassiopeia. The fireflies rise from the forest floor, lifting into the sky, becoming indistinguishable from actual stars. Camera tilts up from the dark forest canopy to the night sky. The transition from firefly to star is seamless. One firefly remains in the foreground, blinking its own rhythm, alone.
+**Prompt:** A dark forest at night. Hundreds of fireflies blink in random patterns. Slowly, their blinking synchronizes — first in small groups, then across the entire forest. The synchronized blinking begins to form patterns: lines, then shapes, then recognizable star constellations — Orion, the Big Dipper, Cassiopeia. The fireflies rise from the forest floor, lifting into the sky, becoming indistinguishable from actual stars. Camera tilts up from the dark forest canopy to the night sky. The transition from firefly to star is smooth. One firefly remains in the foreground, blinking its own rhythm, alone.
 
 **Settings:** 16:9, 10 seconds
 
@@ -169,7 +169,7 @@
 ### Neural Network Pulse
 **Prompt:** Abstract visualization of a neural network in deep space. Thousands of glowing nodes connected by thin luminous threads. Pulses of light travel along the connections — some slow and steady, some rapid-fire. The network is 3D, not flat — camera orbits through it. Nodes fire in cascading patterns: a single node triggers, then 10, then 100, then 1000 — a thought completing. After the cascade, the network quiets. A new pattern emerges: the nodes rearrange, forming new connections. The network is learning. Color palette: deep indigo background, cyan nodes, white connection pulses. Slight bloom and lens flare on bright pulses.
 
-**Settings:** 16:9, 10 seconds (seamless loop)
+**Settings:** 16:9, 10 seconds (smooth loop)
 
 **Expected result:** Abstract AI visualization that feels alive. The cascade patterns create rhythm. The color palette is calming but electric. Works as a loop.
 
@@ -195,7 +195,7 @@
 
 **Settings:** 16:9, 10 seconds
 
-**Expected result:** Space meets biology — a garden that shouldn't exist but feels inevitable. The light butterfly is the emotional anchor. The transition from garden-scale to cosmic-scale is seamless.
+**Expected result:** Space meets biology — a garden that shouldn't exist but feels inevitable. The light butterfly is the emotional anchor. The transition from garden-scale to cosmic-scale is smooth.
 
 **Variations:**
 - Ocean garden: coral-like cosmic structures, bioluminescent space jellyfish
@@ -219,11 +219,11 @@
 - **Abstract/Graphic**: Runway excels at motion graphics, liquid simulations, and abstract visuals
 - **Style Transfer**: Strong at applying artistic styles to footage
 - **Short-Form**: Best results at 4-8 second generations
-- **Looping**: Good at creating seamlessly loopable content
+- **Looping**: Good at creating smoothly loopable content
 
 ### Common Runway Patterns
 - "Against a [color] background" — controls the environment cleanly
 - "In the style of [artist/film]" — strong style transfer
-- "Seamless loop" — ensures the video loops cleanly
+- "Smooth loop" — ensures the video loops cleanly
 - "Macro close-up" — Runway handles macro detail well
 - "Slow motion, [X]fps" — specifies the slow-motion speed
