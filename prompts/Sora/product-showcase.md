@@ -183,7 +183,7 @@
 
 **Settings:** 16:9, 20 seconds
 
-**Expected result:** The ultimate aspirational space reveal. Each detail layer adds luxury. The camera movement is the viewer's "walkthrough." The balcony view is the payoff.
+**Expected result:** The best aspirational space reveal. Each detail layer adds luxury. The camera movement is the viewer's "walkthrough." The balcony view is the payoff.
 
 **Variations:**
 - Mountain chalet: fireplace, snow view, fur throws, warm wood tones
