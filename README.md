@@ -13,7 +13,7 @@ n<div align="center">
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Prompts](https://img.shields.io/badge/Prompts-200+-orange.svg)](#prompt-collections)
 
-**Stop writing vague prompts. 200+ battle-tested video generation prompts for Sora, Runway, Pika, and Kling.**
+**Stop writing vague prompts. 200+ tried-and-true video generation prompts for Sora, Runway, Pika, and Kling.**
 
 ---
 
